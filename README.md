@@ -46,3 +46,8 @@ An Interactive dashboard was created in Power BI to visualize revenue trends, pr
 
 ## 🏁 Conclusion
 The analysis provided valuable insights into sales performance, customer behavior, and operational challenges. The findings demonstrate how data-driven decision-making can support business growth and improve overall business performance.
+
+## 🏷️ Internship Context
+
+This project was completed as part of the **DecodeLabs Data Analytics Internship Program**. Power BI was used to analyze and visualize e-commerce sales data, uncovering trends in customer behavior, product performance, payment preferences, and revenue patterns to support data-driven decision-making.
+
